@@ -1819,7 +1819,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fffff2;
+  background: #1634e2;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3028,4 +3028,9 @@ li.ping-menu-item>img {
 }
 .site-nav-toggle button {
   background: #294a53;
+}
+@media (max-width: 450px) {
+  div.ping-header {
+    display: none;
+  }
 }
