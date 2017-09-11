@@ -1819,7 +1819,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #03ece7;
+  background: #fffff2;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2973,11 +2973,11 @@ pre .javascript .function {
 div.ping-header {
   background: #142429;
   text-align: center;
-  min-width: 600px;
+  min-width: 450px;
 }
 ul.ping-menu {
   list-style-type: none;
-  width: 70%;
+  width: 99%;
   margin: auto;
   padding: 0;
   font: 18px bold;
